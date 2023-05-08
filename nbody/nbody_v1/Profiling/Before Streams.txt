@@ -1,0 +1,5 @@
+TIMING: 0.338624 ms (Memory Allocation)
+TIMING: 0.071936 ms (Memory Copy)
+TIMING: 22.2129 ms (Execution Time)
+TIMING: 0.073024 ms (Memory Allocation)
+TIMING: 24.1898 ms (Execução Total do Kernel)
